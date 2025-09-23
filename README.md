@@ -3,7 +3,7 @@
 🎓 Master’s student in **Applied Data Science at Syracuse University** (GPA 3.9) | Bachelor’s in **Information Technology from Mumbai University**.  
 💡 Passionate about using **Machine Learning, AI, and Analytics** to solve real-world challenges and create scalable, data-driven solutions.  
 
----
+
 
 ## 🧑‍💻 About Me  
 As a Master’s student in Applied Data Science at Syracuse University, with a Bachelor’s in Information Technology from Mumbai University, I have built a strong foundation in **machine learning, natural language processing, data visualization, and cloud computing**.  
@@ -14,7 +14,7 @@ Professionally, I have worked as a **Data Analyst Intern at Shivneri Logistics**
 
 Looking ahead, I aspire to build a career in **Data Science, Analytics, and AI/ML**, applying my skills in **Python, R, SQL, Machine Learning, and Visualization** to create impactful solutions and drive innovation in business and technology.  
 
----
+
 
 ## 🛠️ Technical Skills  
 - **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, spaCy), R (ggplot, tidyverse), SQL (PostgreSQL, MySQL), HTML, CSS  
@@ -23,7 +23,7 @@ Looking ahead, I aspire to build a career in **Data Science, Analytics, and AI/M
 - **Visualization:** Tableau, Power BI, Shiny, Excel (Dashboards, Pivot Tables, KPI Reporting)  
 - **Other Tools:** GitHub, Jupyter, VSCode, Azure Data Studio, MySQL Workbench  
 
----
+
 
 ## 🚀 Highlighted Projects  
 
@@ -42,7 +42,7 @@ Looking ahead, I aspire to build a career in **Data Science, Analytics, and AI/M
 - **[Bank Loan Report Dashboard]**  
   Built **3 dashboards** in Tableau and Excel, tracking 5 standardized KPIs with drill-downs and interactive US maps, enabling dynamic analysis of loan trends.  
 
----
+
 
 ## 🏆 Certifications  
 - **Google Data Analytics Professional Certificate**  
@@ -50,16 +50,16 @@ Looking ahead, I aspire to build a career in **Data Science, Analytics, and AI/M
 - **AWS Academy Cloud Foundations**  
 - **Hands-On Essentials: Data Warehousing Workshop**  
 
----
+
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/isakshisingh/)  
 - 📧 Email: [sakshisureshsingh@gmail.com](mailto:sakshisureshsingh@gmail.com)  
 - 🖥️ [GitHub](https://github.com/singhsakshi123)  
 
----
 
-✨ *Always open to collaborations in AI, Data Science, and Analytics!*  
+
+## ✨ *Always open to collaborations in AI, Data Science, and Analytics!*  
 
 
 <!--
