@@ -27,19 +27,19 @@ Looking ahead, I aspire to build a career in **Data Science, Analytics, and AI/M
 
 ## 🚀 Highlighted Projects  
 
-- **[HairVise: Hair Health Recommender]([link-to-repo](https://github.com/singhsakshi123/Hair-Health-Recommender))**  
+- **[HairVise: Hair Health Recommender]**  
   *Published in IEEE (ICISC 2024)* | Built a multi-label ML recommender (93% accuracy, F1 = 0.91) with **Flask + React**, delivering real-time product suggestions in an e-commerce setting.  
 
-- **[Flower Disease Detection]([link-to-repo](https://github.com/singhsakshi123/Flower-Disease-Detection-using-Deep-Learning))**  
+- **[Flower Disease Detection]**  
   Image classification using **CNNs + transfer learning** with augmentation (Albumentations). Achieved 95% test accuracy and deployed as a **Flask + React web app** for real-time recognition.  
-[
-- **[Stock Price Forecasting with Sentiment & Indicators](link-to-repo](https://github.com/singhsakshi123/Stock-Price-Forecasting-with-Technical-Indicators-and-News-Sentiment))**  
+
+- **[Stock Price Forecasting with Sentiment & Indicators])**  
   Developed hybrid models using **LSTM, XGBoost, and FinBERT sentiment analysis** to forecast stock prices. Achieved R² = 0.80 and deployed via an **interactive Streamlit dashboard**.  
 
-- **[Predicting and Managing Peak Energy Demand]([link-to-repo](https://github.com/singhsakshi123/Predicting-Peak-Energy-Demand))**  
+- **[Predicting and Managing Peak Energy Demand]**  
   Analyzed 50M+ energy consumption records and weather data. Built **Linear Regression, Decision Tree, and SVM models (best R² ≈ 0.81)**. Delivered a **Shiny app** for scenario simulation and recommended sustainability programs (smart thermostats, LEDs, HVAC upgrades).  
 
-- **[Bank Loan Report Dashboard]([link-to-repo](https://github.com/singhsakshi123/Bank-Loan-Report-Dashboard))**  
+- **[Bank Loan Report Dashboard]**  
   Built **3 dashboards** in Tableau and Excel, tracking 5 standardized KPIs with drill-downs and interactive US maps, enabling dynamic analysis of loan trends.  
 
 ---
