@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋 I'm **Sakshi Singh**<br><br>
 🎓 Master’s student in **Applied Data Science at Syracuse University** (GPA 3.9) 🍊<br>
-🎓 Bachelor’s in **Information Technology from Mumbai University**<br><br>
+🎓 Bachelor’s in **Information Technology from Mumbai University** (GPA 3.5) <br><br>
 
 I’m a data professional who enjoys solving real business problems through **data analysis, dashboarding, and actionable insights**, and I’m equally comfortable building **machine learning models** when prediction or automation adds value. 📊🤖<br><br>
 
