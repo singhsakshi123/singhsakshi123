@@ -1,78 +1,63 @@
-# Hi there 👋, I'm Sakshi Singh  
+# 💫 About Me:
+Hi there! 👋 I'm **Sakshi Singh**<br><br>
+🎓 Master’s student in **Applied Data Science at Syracuse University** (GPA 3.9) 🍊<br>
+🎓 Bachelor’s in **Information Technology from Mumbai University**<br><br>
 
-🎓 Master’s student in **Applied Data Science at Syracuse University** (GPA 3.9) | Bachelor’s in **Information Technology from Mumbai University**.  
-💡 Passionate about using **Machine Learning, AI, and Analytics** to solve real-world challenges and create scalable, data-driven solutions.  
+I’m a data professional who enjoys solving real business problems through **data analysis, dashboarding, and actionable insights**, and I’m equally comfortable building **machine learning models** when prediction or automation adds value. 📊🤖<br><br>
 
+I enjoy working across the full data lifecycle — **data cleaning, feature engineering, KPI reporting, visualization, experimentation, and storytelling** — turning raw datasets into clear outcomes that support smarter decision-making.<br><br>
 
-
-## 🧑‍💻 About Me  
-As a Master’s student in Applied Data Science at Syracuse University, with a Bachelor’s in Information Technology from Mumbai University, I have built a strong foundation in **machine learning, natural language processing, data visualization, and cloud computing**.  
-
-My academic journey reflects a deep interest in solving complex challenges through data-driven approaches, supported by coursework in **AI, Big Data, Financial Analytics, and Business Intelligence**.  
-
-Professionally, I have worked as a **Data Analyst Intern at Shivneri Logistics**, improving data quality, building dashboards, and supporting process optimization. As a **Data Science Intern at DoubtShout Technologies**, I focused on **data wrangling, exploratory analysis, and predictive modeling**, delivering insights that supported stakeholder decision-making.  
-
-Looking ahead, I aspire to build a career in **Data Science, Analytics, and AI/ML**, applying my skills in **Python, R, SQL, Machine Learning, and Visualization** to create impactful solutions and drive innovation in business and technology.  
+Alongside this, I actively work on **Machine Learning, NLP, Deep Learning, and GenAI projects**, focusing on building solutions that are not just accurate, but also **scalable, practical, and deployment-ready**. 🚀
 
 
-
-## 🛠️ Technical Skills  
-- **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, spaCy), R (ggplot, tidyverse), SQL (PostgreSQL, MySQL), HTML, CSS  
-- **AI/ML & Analytics:** Machine Learning, Deep Learning, NLP, LLMs (Hugging Face, BERT, GPT, LangChain), Generative AI, Time Series, Forecasting, A/B Testing  
-- **Data Engineering & Cloud:** ETL Pipelines, Data Warehousing, Hadoop, Spark, AWS, Azure  
-- **Visualization:** Tableau, Power BI, Shiny, Excel (Dashboards, Pivot Tables, KPI Reporting)  
-- **Other Tools:** GitHub, Jupyter, VSCode, Azure Data Studio, MySQL Workbench  
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isakshisingh/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshisureshsingh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/singhsakshi123)
 
 
+# 💻 Tech Stack:
+### 🧠 Machine Learning / AI:
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111111?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-222222?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-333333?style=for-the-badge)
 
-## 🚀 Highlighted Projects  
+### 🧑‍💻 Programming & Databases:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **[HairVise: Hair Health Recommender]**  
-  *Published in IEEE (ICISC 2024)* | Built a multi-label ML recommender (93% accuracy, F1 = 0.91) with **Flask + React**, delivering real-time product suggestions in an e-commerce setting.  
+### ⚙️ Libraries / Frameworks:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-- **[Flower Disease Detection]**  
-  Image classification using **CNNs + transfer learning** with augmentation (Albumentations). Achieved 95% test accuracy and deployed as a **Flask + React web app** for real-time recognition.  
+### 🤖 NLP / GenAI:
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge)
 
-- **[Stock Price Forecasting with Sentiment & Indicators])**  
-  Developed hybrid models using **LSTM, XGBoost, and FinBERT sentiment analysis** to forecast stock prices. Achieved R² = 0.80 and deployed via an **interactive Streamlit dashboard**.  
-
-- **[Predicting and Managing Peak Energy Demand]**  
-  Analyzed 50M+ energy consumption records and weather data. Built **Linear Regression, Decision Tree, and SVM models (best R² ≈ 0.81)**. Delivered a **Shiny app** for scenario simulation and recommended sustainability programs (smart thermostats, LEDs, HVAC upgrades).  
-
-- **[Bank Loan Report Dashboard]**  
-  Built **3 dashboards** in Tableau and Excel, tracking 5 standardized KPIs with drill-downs and interactive US maps, enabling dynamic analysis of loan trends.  
-
-
-
-## 🏆 Certifications  
-- **Google Data Analytics Professional Certificate**  
-- **Supervised Machine Learning: Regression and Classification** – DeepLearning.AI  
-- **AWS Academy Cloud Foundations**  
-- **Hands-On Essentials: Data Warehousing Workshop**  
-
-
-
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/isakshisingh/)  
-- 📧 Email: [sakshisureshsingh@gmail.com](mailto:sakshisureshsingh@gmail.com)  
-- 🖥️ [GitHub](https://github.com/singhsakshi123)  
-
-
-
-## ✨ *Always open to collaborations in AI, Data Science, and Analytics!*  
+### ☁️ Data Engineering / Cloud / Big Data:
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-0A0A0A?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-1A1A1A?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-<!--
-**singhsakshi123/singhsakshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Visualization & BI:
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
