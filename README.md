@@ -61,3 +61,10 @@ Alongside this, I actively work on **Machine Learning, NLP, Deep Learning, and G
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🎯 Roles of Interest
+**Data Analyst | Business Analyst | BI Analyst | BIE | Junior Data Scientist**
+
+## 💡 Professional Focus
+I specialize in transforming raw data into actionable insights through **data analysis, KPI reporting, and interactive dashboards**, and I also build **machine learning models** when predictive insights are needed. With hands-on experience across **finance, healthcare, supply chain, and logistics** use cases, I focus on delivering solutions that are practical, scalable, and aligned with real business needs.
+
